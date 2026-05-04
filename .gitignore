@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.idea
+*.swp
+*.swo
+*~
+
+# Go
+bin/
+dist/
+*.o
+*.a
+*.so
+*.dylib
